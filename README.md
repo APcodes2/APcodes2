@@ -1,5 +1,9 @@
 ## Hi there 👋
 I made this!
+
+- 🔭 I’m currently working on full-stack development
+- 🌱 I’m currently learning Nextjs and React
+- ⚡ Fun fact: I have 2 dogs
 <!--
 **APcodes2/APcodes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
